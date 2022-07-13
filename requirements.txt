@@ -1,0 +1,13 @@
+#packages required
+#make sure your python== 3.10.5
+
+pip==22.0.4
+asgiref==3.5.2
+Django==4.0.5
+djangorestframework==3.13.1
+pytz==2022.1
+sqlparse==0.4.2
+tzdata==2022.1
+
+#Project_name= src
+#App_name= first
